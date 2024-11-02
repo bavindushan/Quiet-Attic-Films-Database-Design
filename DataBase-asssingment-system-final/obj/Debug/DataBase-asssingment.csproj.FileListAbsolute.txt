@@ -1,0 +1,60 @@
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\bin\Debug\DataBase-asssingment.exe.config
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\bin\Debug\DataBase-asssingment.exe
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\bin\Debug\DataBase-asssingment.pdb
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase-asssingment.csproj.AssemblyReference.cache
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase-asssingment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.Admin_Dash_Board.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.Clients_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.Location_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.Login.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.Production_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.Properties_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.Properties.Resources.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.Staff_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase-asssingment.csproj.GenerateResource.cache
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase-asssingment.csproj.CoreCompileInputs.cache
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase-asssingment.exe
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase-asssingment.pdb
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.staff_dashboard.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.user_Account_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-help\DataBase-asssingment\obj\Debug\DataBase_asssingment.StaffTypes.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\bin\Debug\DataBase-asssingment.exe.config
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\bin\Debug\DataBase-asssingment.exe
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\bin\Debug\DataBase-asssingment.pdb
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.csproj.AssemblyReference.cache
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Admin_Dash_Board.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Clients_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Location_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Login.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Production_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Properties_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Properties.Resources.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Staff_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.StaffTypes.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.staff_dashboard.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.user_Account_Manager.resources
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.csproj.GenerateResource.cache
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.csproj.CoreCompileInputs.cache
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.exe
+C:\Users\Bavindu Shan\Documents\HND-SF-Com.1\HND-Sem_ 01-Assingments\data-base-final-system & diagrams\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.pdb
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\bin\Debug\DataBase-asssingment.exe.config
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\bin\Debug\DataBase-asssingment.exe
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\bin\Debug\DataBase-asssingment.pdb
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.csproj.AssemblyReference.cache
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Admin_Dash_Board.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Clients_Manager.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Location_Manager.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Login.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Production_Manager.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Properties_Manager.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Properties.Resources.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.Staff_Manager.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.StaffTypes.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.staff_dashboard.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase_asssingment.user_Account_Manager.resources
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.csproj.GenerateResource.cache
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.csproj.CoreCompileInputs.cache
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.exe
+C:\Users\Bavindu Shan\OneDrive\HND-COM-01\Sem 01-assingmnet\Data Base\submit\DataBase-asssingment-system-final\obj\Debug\DataBase-asssingment.pdb
